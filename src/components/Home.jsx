@@ -14,6 +14,14 @@ const Home = () => {
         <main>
           <h1>Tech Wave</h1>
           <p>Solution to all your problems</p>
+          <p>
+            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi
+            dolorum rem incidunt ab optio minus nobis tempora. Soluta, sint
+            cumque incidunt alias quod omnis tempora eligendi cum neque
+            praesentium illum natus ipsum laborum! Eos laudantium autem incidunt
+            reiciendis eveniet eaque odit, corporis velit excepturi quidem at
+            non voluptate atque saepe.
+          </p>
         </main>
       </div>
 
